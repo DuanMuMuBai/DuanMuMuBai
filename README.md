@@ -5,7 +5,8 @@
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuanMuMuBai&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuanMuMuBai&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuanMuMuBai&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuanMuMuBai&theme=blueberry)  
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism
 
 📫 联系我  
 邮箱：jackieonce2024@outlook.com  
