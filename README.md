@@ -7,9 +7,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuanMuMuBai&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuanMuMuBai&theme=blueberry)
 
-📫 联系我
-邮箱：jackieonce2024@outlook.com 或 jackieteam2022@outlook.com
-微信：jackieonce1001
+📫 联系我  
+邮箱：jackieonce2024@outlook.com 或 jackieteam2022@outlook.com  
+微信：jackieonce1001  
 博客：[待开发……]
 
 # 👋Hello there ，this is MuBai ！
@@ -21,7 +21,7 @@ currently focused on the exploration and practice of **RAG systems**
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuanMuMuBai&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuanMuMuBai&theme=blueberry)
 
-📫 Contact Me
-E-Mail：jackieonce2024@outlook.com or jackieteam2022@outlook.com
-Wechat：jackieonce1001
+📫 Contact Me  
+E-Mail：jackieonce2024@outlook.com or jackieteam2022@outlook.com  
+Wechat：jackieonce1001  
 Blog：[to be continue……]
