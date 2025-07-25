@@ -3,6 +3,8 @@
 一只初入人工智能领域的**在校生**  
 目前正专注于 **RAG 系统**的探索与实践
 
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuanMuMuBai&theme=blueberry)
+
 📫 联系我
 邮箱：jackieonce2024@outlook.com 或 jackieteam2022@outlook.com
 微信：jackieonce1001
