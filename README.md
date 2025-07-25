@@ -4,6 +4,8 @@
 目前正专注于 **RAG 系统**的探索与实践
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuanMuMuBai&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuanMuMuBai&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuanMuMuBai&theme=blueberry)
 
 📫 联系我
 邮箱：jackieonce2024@outlook.com 或 jackieteam2022@outlook.com
@@ -14,6 +16,10 @@
 
 **A collage student** who is new to the field of artificial intelligence  
 currently focused on the exploration and practice of **RAG systems**
+
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuanMuMuBai&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuanMuMuBai&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuanMuMuBai&theme=blueberry)
 
 📫 Contact Me
 E-Mail：jackieonce2024@outlook.com or jackieteam2022@outlook.com
