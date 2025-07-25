@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 联系我
+邮箱：jackieonce2024@outlook.com 或 jackieteam2022@outlook.com
+Wechat：jackieonce1001
+个人网站：[to be continue……]
