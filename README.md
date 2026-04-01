@@ -10,7 +10,7 @@
 📫 联系我  
 邮箱：jackieonce2024@outlook.com  
 微信：jackieonce1001  
-博客：[待开发……]
+博客：[沐白.top]
 
 # 👋Hello there ，this is MuBai ！
 
@@ -24,4 +24,4 @@ currently focused on the exploration and practice of **RAG systems**
 📫 Contact Me  
 E-Mail：jackieonce2024@outlook.com  
 Wechat：jackieonce1001  
-Blog：[to be continue……]
+Blog：[沐白.top]
